@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Dojji",
+    "section": "",
+    "text": "On Love\n\n\n\n\n\n\nGood Question\n\n\n\n\n\n\n\n\n\nJan 11, 2025\n\n\nDojji\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nJan 8, 2025\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "On Love",
+    "section": "",
+    "text": "On Love\nHow do you know “I love”?\nIn order for I to love anything, I creates an image of the object of love.\nSuppose I say I love my dog and I believe it is true.\nMy dog recalls memories within me of our good times together of him being a good boy.\nHowever, the dog is obviously not my memories of the dog!\nThe dog right here in front of me is asymptotically not the dog I recall.\nBecause when I think, it is a thought, the dog right here in front of me is not a thought.\nIn fact, calling the dog right here in front of me “the dog right here in front of me” is yet another lie.\nWithout “the dog right here in front of me”, what is the dog right here in front of me?\nWhat is this?\nWhat is?\nWhat?\nThen love is inevitable."
+  }
+]
