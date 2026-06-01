@@ -66,12 +66,13 @@ header.nav nav a:hover { color: var(--fg); }
 pre.ascii {
   font-family: var(--mono);
   color: var(--fg);
-  line-height: 1.15;
+  line-height: 1;
   font-size: 13px;
   white-space: pre;
   overflow-x: auto;
   margin: 28px 0 8px;
   text-align: center;
+  letter-spacing: 0;
 }
 
 @media (max-width: 560px) {
